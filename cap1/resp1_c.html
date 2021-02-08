@@ -1,0 +1,14 @@
+<meta charset="UTF-8">
+<script> // Valor de produto com desconto à vista e valor parcelado
+
+  var produto = Number(prompt('Valor do produto: '));
+
+  var desconto = produto * 0.10;
+
+  var aVista = produto - desconto;
+
+  var parcelado = produto / 3;
+
+  alert('Preço R$: ' + produto.toFixed(2) + '\nÀ Vista R$: ' + aVista.toFixed(2) + '\nOu 3x de R$: '  + parcelado.toFixed(2));
+
+</script>
