@@ -60,3 +60,24 @@
 <br>
 <h4>🗂 cap2 <kbd>  - Integração com HTML </kbd></h4>              
 <br>
+<h6 ><kbd>📍 ex2_1.html</kbd> + <kbd> 💛 ex2_1.js</kbd> Exibindo nome informado pelo usuário em campo de edição </h6><br>
+<h6 ><kbd>📍 ex2_2.html</kbd> + <kbd> 💛 ex2_2.js</kbd> (Vídeo Locadora) Convertendo minutos em horas e minutos </h6><br>
+<h6 ><kbd>📍 ex2_3.html</kbd> + <kbd> 💛 ex2_3.js</kbd> (Revenda de veículos) Calculando valor de entrada e parcelamento </h6><br>
+<h6 ><kbd>📍 ex2_4.html</kbd> + <kbd> 💛 ex2_4.js</kbd> (Restaurante) Calculando valor a ser pago de acordo com peso e valor </h6><br>
+<h6 ><kbd>📍 resp2_a.html</kbd> + <kbd> 💛 resp2_a.js</kbd> (Farmácia) Aplicando desconto no valor total na compra de duas unidades </h6><br>
+<h6 ><kbd>📍 resp2_b.html</kbd> + <kbd> 💛 resp2_b.js</kbd> (Lan House) Calculando valor a ser pago por tempo de uso </h6><br>
+<h6 ><kbd>📍 resp2_c.html</kbd> + <kbd> 💛 resp2_c.js</kbd> (Supermercado) Calculando desconto na compra de três itens </h6><br>
+<br>
+<br>
+<h4>🗂 cap3 <kbd>  - Condições </kbd></h4>              
+<br>
+<h6 ><kbd>📍 ex3_1.html</kbd> + <kbd> 💛 ex3_1.js</kbd> Exibindo mensagens condicionadas a nota do aluno </h6><br>
+<h6 ><kbd>📍 ex3_2.html</kbd> + <kbd> 💛 ex3_2.js</kbd> Calculando peso ideal de acordo com altura e sexo </h6><br>
+<h6 ><kbd>📍 ex3_3.html</kbd> Exibindo resultados de acordo com condicionais </h6><br>
+<h6 ><kbd>📍 ex3_4.html</kbd> + <kbd> 💛 ex3_4.js</kbd> Calculando fuso horário </h6><br>
+<h6 ><kbd>📍 ex3_5.html</kbd> + <kbd> 💛 ex3_5.js</kbd> Calculando raiz quadrada </h6><br>
+<h6 ><kbd>📍 ex3_6.html</kbd> + <kbd> 💛 ex3_6.js</kbd> Exibindo quantidade de notas de acordo com o valor  </h6><br>
+<h6 ><kbd>📍 resp3_a.html</kbd> + <kbd> 💛 resp3_a.js</kbd> Verificando se número informado é par ou ímpar </h6><br>
+<h6 ><kbd>📍 resp3_b.html</kbd> + <kbd> 💛 resp3_b.js</kbd> Verificando velocidade do condutor </h6><br>
+<h6 ><kbd>📍 resp3_c.html</kbd> + <kbd> 💛 resp3_c.js</kbd> Calculando valor pago e troco em parquímetro de acordo com tempo de uso </h6><br>
+<h6 ><kbd>📍 resp3_d.html</kbd> + <kbd> 💛 resp3_d.js</kbd> Exibindo possibilidade e tipo de triângulo </h6><br>
