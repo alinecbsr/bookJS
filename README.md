@@ -81,3 +81,18 @@
 <h6 ><kbd>📍 resp3_b.html</kbd> + <kbd> 💛 resp3_b.js</kbd> Verificando velocidade do condutor </h6><br>
 <h6 ><kbd>📍 resp3_c.html</kbd> + <kbd> 💛 resp3_c.js</kbd> Calculando valor pago e troco em parquímetro de acordo com tempo de uso </h6><br>
 <h6 ><kbd>📍 resp3_d.html</kbd> + <kbd> 💛 resp3_d.js</kbd> Exibindo possibilidade e tipo de triângulo </h6><br>
+<br>
+<br>
+<h4>🗂 cap4 <kbd>  - Repetições </kbd></h4>              
+<br>
+<h6 ><kbd>📍 ex4_1.html</kbd> + <kbd> 💛 ex4_1.js</kbd> Calculando e exibindo o resultado de uma tabuada </h6><br>
+<h6 ><kbd>📍 ex4_2.html</kbd> + <kbd> 💛 ex4_2.js</kbd> Exibindo numeros descrecentes de valor informado </h6><br>
+<h6 ><kbd>📍 ex4_3.html</kbd> Exibindo numeros pares entre 1 e o número informado </h6><br>
+<h6 ><kbd>📍 ex4_4.html</kbd> Exibindo funcionamento do laço do...while </h6><br>
+<h6 ><kbd>📍 ex4_5.html</kbd> + <kbd> 💛 ex4_5.js</kbd> Contadores e acumuladores </h6><br>
+<h6 ><kbd>📍 ex4_6.html</kbd> + <kbd> 💛 ex4_6.js</kbd> Contadores e acumuladores na exibição de uma resposta (números primos) </h6><br>
+<h6 ><kbd>📍 ex4_7.html</kbd> + <kbd> 💛 ex4_7.js</kbd> Depurar programas (detectar erros) </h6><br>
+<h6 ><kbd>📍 resp4_a.html</kbd> + <kbd> 💛 resp4_a.js</kbd> Exibindo em tela a fruta informada na quantidades de vezes informada </h6><br>
+<h6 ><kbd>📍 resp4_b.html</kbd> + <kbd> 💛 resp4_b.js</kbd> Exibindo projeção esperada para quantidade de animais e anos informados </h6><br>
+<h6 ><kbd>📍 resp4_c.html</kbd> + <kbd> 💛 resp4_c.js</kbd> Verificar e exibir em tela se número informado é um numero perfeiro </h6><br>
+<h6 ><kbd>📍 resp4_d.html</kbd> + <kbd> 💛 resp4_d.js</kbd> Exibindo extrelas de acordo com o número de linhas informadas com incremento a cada linha </h6><br>

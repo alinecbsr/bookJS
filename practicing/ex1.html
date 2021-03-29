@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1>Calculadora</h1>
+  <p> Informe o valor de x: <input type="texto" id="numberX" /> </p>
+  <p> Informe o valor de y <input type="texto" id="numberY" /> </p>
+  <p><input type="button" value="Somar" id="btnSomar"/>
+    <input type="button" value="Subtrair" id="btnSubtrair"/>
+    <input type="button" value="Multiplicar" id="btnMultiplicar"/>
+    <input type="button" value="Dividir" id="btnDividir"/>
+  </p>
+  
+  <h3 id="result"></h3>
+  <script src='./ex1.js'></script>
+  <script>
+    
+    numberX = document.getElementById("numberX");
+    numberY = document.getElementById("numberY");
+    result = document.getElementById("result");
+
+    function showResult(resultado){
+      result.textContent = `O resultado é:  ${resultado}`;
+    }
+
+    btnSomar = document.getElementById("btnSomar");
+    btnSomar .addEventListener("click", ()=> {
+      xNumber = Number(numberX.value);
+      yNumber = Number(numberY.value);
+      var somando = somar(xNumber, yNumber);
+      showResult(somando);
+    })
+
+    btnSubtrair = document.getElementById("btnSubtrair");
+    btnSubtrair .addEventListener("click", ()=> {
+      xNumber = Number(numberX.value);
+      yNumber = Number(numberY.value);
+      var subtraindo = subtrair(xNumber, yNumber);
+      showResult(subtraindo);
+    })
+
+    btnMultiplicar = document.getElementById("btnMultiplicar");
+    btnMultiplicar .addEventListener("click", ()=> {
+      xNumber = Number(numberX.value);
+      yNumber = Number(numberY.value);
+      var multiplicando = multiplicar(xNumber, yNumber);
+      showResult(multiplicando);
+    })
+
+    btnDividir = document.getElementById("btnDividir");
+    btnDividir .addEventListener("click", ()=> {
+      xNumber = Number(numberX.value);
+      yNumber = Number(numberY.value);
+      var dividindo = dividir(xNumber, yNumber);
+      showResult(dividindo);
+    })
+
+  </script>
+</body>
+
+</html>
